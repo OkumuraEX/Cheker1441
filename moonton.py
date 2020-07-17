@@ -8,9 +8,9 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : moonton.py                              #
-# Author         : MoontonEX                                  #
-# Github         : https://github.com/OkumuraEx              #
-# Facebook       : https://www.facebook.com/A.AbdulRoza    #                   #
+# Author         : MoontonEX                               #
+# Github         : https://github.com/OkumuraEx            #
+# Facebook       : https://www.facebook.com/A.AbdulRozaq   #
 # Python version : 3.7++                                   #
 ############################################################
 
